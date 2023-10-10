@@ -29,6 +29,7 @@
     transition: all 0.7s;
     background-color: black;
     color: white;
+    text-align: center;
     box-shadow: 0 0 0 4px rgba(135, 240, 153, 4);
 }
 
