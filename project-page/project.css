@@ -1,6 +1,7 @@
 .start{
     position: absolute;
     top: 12%;
+    text-align: center;
 }
 
 .header{
@@ -10,6 +11,7 @@
     margin-bottom: 3px;
     padding-left: 5px;
     padding-right: 5px;
+    text-align: center;
 }
 
 .button{
@@ -17,6 +19,7 @@
     border: 3px;
     padding: 8px;
     transition-duration: 0.7s;
+    text-align: center;
 }
 
 .button:last-child{
@@ -44,4 +47,3 @@
     text-align: center;
    }
 }
-
